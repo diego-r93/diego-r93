@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <a href="https://nodered.org/"><img height= "35" src= "https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white"></a>
 <a href="https://www.arduino.cc/"><img height= "35" src= "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="https://www.raspberrypi.org/"><img height= "35" src= "https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
+<a href="https://platformio.org/"><img height= "35" src= "/images/platformio-logo-black.png"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://www.influxdata.com/"><img height= "35" src= "https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"></a>
