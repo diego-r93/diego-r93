@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📊  My Stats  📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-r93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⭐️  Some of the Dev technologies I know the most  ⭐️
+<a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
