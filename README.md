@@ -1,6 +1,6 @@
 ## Oi eu sou o Diego 🌱:rocket: 
 - ⚡ Cursando Engenharia Eletrônica e de Computação
-- 🌱 Estudando Dart e Javascript
+- :books: Estudando Dart e Javascript
 
 <!--
 **diego-r93/diego-r93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
