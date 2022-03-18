@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## :bar_chart:  Meu Status  :chart_with_upwards_trend:
 [![Diego's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego-r93&langs_count=6&exclude_repo=AVR-e-Arduino&show_icons=true&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🧰Principais linguagens e Frameworks:
+## 🧰 Principais linguagens e Frameworks:
 <div style="display: inline_block"><br>
 <a href="https://isocpp.org/"><img height= "35" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://isocpp.org/"><img height= "35" src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
