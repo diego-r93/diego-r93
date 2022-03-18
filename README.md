@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## :bar_chart:  Meu Status  :chart_with_upwards_trend:
-[![Diego's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego-r93&show_icons=true&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego-r93&exclude_repo=estrutura-de-dados-em-C&show_icons=true&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧰Principais linguagens e Frameworks:
 <div style="display: inline_block"><br>
